@@ -1,9 +1,9 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## 12 - Express
 
-### Author: Student/Group Name
+### Author: Heather Cherewaty & Jared Pattison 
 
 ### Links and Resources
 * [repo](http://xyz.com)
